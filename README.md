@@ -17,7 +17,9 @@ I'm a passionate Full Stack Developer skilled in building dynamic and responsive
 - Developed and maintained robust web applications using the **MERN** stack.  
 - Implemented **ERP solutions** to optimize business processes.  
 
-### Guvi Geek Pvt Ltd *(Implementation Engineer)*  
+
+## 🏆 Certification
+### Guvi Geek Pvt Ltd *(Full Stack Developer | MERN)*  
 - Delivered full-stack solutions and contributed to technical enhancements.  
 
 ## 🎓 Education  
